@@ -1,2 +1,4 @@
-# istanbul-manevi-rehber
-İstanbul için manevi gezi rehberi.
+# İstanbul Manevi Rehber
+
+
+İstanbul için manevi gezi rehberi uygulaması.
